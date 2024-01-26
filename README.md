@@ -5,7 +5,7 @@ Clone of [Aware Bot](https://awarebot.pro/invite) . [Aware Support](https://disc
 # Support 
 
 - Support : https://discord.gg/79dev
-- My Socials : https://feds.lol/aimgod
+- My Socials : https://feds.lol/ftpskid
 - Aware Support : https://discord.gg/aware
 - Website : https://novaa.fun/
 
