@@ -11,20 +11,21 @@ Clone of [Aware Bot](https://awarebot.pro/invite) . [Aware Support](https://disc
 
 # Installation Ubuntu / Linux 
 
-First make sure you have installed NodeJS 
+- First make sure you have installed NodeJS 
 
-For windows = https://nodejs.org/en
 For Ubuntu = ```sudo apt-get install nodejs```
 For Linux Debians = ```sudo yum install nodejs``` 
 
-You have to install npm seperately in Ubuntu OS & Linix 
-For Ubuntu = ```sudo apt install npm```
-For Linux = ```sudo yum install npm```  
+**You have to install npm seperately in Ubuntu OS & Linux**
+- For Ubuntu = ```sudo apt install npm```
+- For Linux = ```sudo yum install npm```  
 
-Now , Install the requirements
+**Now , Install the requirements**
 ```npm install package.json``` 
 
 # Installation Windows
+
+**For windows** = https://nodejs.org/en
 
 1. Run ```npm i package.json```
 2. This will create a folder "node_modules"
