@@ -1,12 +1,13 @@
 # Carbon
 
-Clone of Aware 
+Clone of [Aware Bot](https://awarebot.pro/invite) . [Aware Support](https://discord.gg/aware)
 
 # Support 
 
 - Support : https://discord.gg/79dev
 - My Socials : https://feds.lol/aimgod
-- Aware Support : https://discord.gg/aware 
+- Aware Support : https://discord.gg/aware
+- Website : https://novaa.fun/
 
 # Installation Ubuntu / Linux 
 
